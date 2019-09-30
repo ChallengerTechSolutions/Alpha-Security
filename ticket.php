@@ -27,13 +27,13 @@
    .body{
     background: black;
     width: 100%;
-    height: 75%;
+    height: 72%;
     position: absolute;
     left: 0%;
     top: 20%;
    }
    .footer{
-    height: 20%;
+    height: 8%;
     width: 100%;
     position: absolute;
     left: 0%;
@@ -83,6 +83,19 @@
     right: 3%;
     top: 22%;
    }
+   .ticket-form{
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    border: 2px solid teal;
+   }
+   .create{
+    text-align: center;
+    font-size: 20px;
+    color: teal;
+   }
   </style>
  </head>
  <body>
@@ -104,7 +117,10 @@
   <h3 class="PI">"Certified Private Investigation Team"</h3>
  </div>
  <div class="body">
+  <h1 class="create">Create a Ticket!</h1>
+  <form class="ticket-form" action="" method="post">
 
+  </form>
  </div>
  <div class="footer">
 

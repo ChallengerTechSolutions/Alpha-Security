@@ -27,13 +27,13 @@
    .body{
     background: black;
     width: 100%;
-    height: 75%;
+    height: 72%;
     position: absolute;
     left: 0%;
     top: 20%;
    }
    .footer{
-    height: 20%;
+    height: 8%;
     width: 100%;
     position: absolute;
     left: 0%;
@@ -104,7 +104,6 @@
   <h3 class="PI">"Certified Private Investigation Team"</h3>
  </div>
  <div class="body">
-
  </div>
  <div class="footer">
 
